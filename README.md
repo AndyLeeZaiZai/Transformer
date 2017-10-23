@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Machine Learning Company
 
-You can use the [editor on GitHub](https://github.com/AndyLeeZaiZai/Transformer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Transformer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Image
+<img src="https://media.kramp.com/kws/krampd_rd/_8B3bIB3_IzLWsZ8Ws6x58DGaIHd5d" alt="Transformer" width="256" height="256">
 
-### Markdown
+### Product name
+Transformer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Description
+The transformator 027183GYS of GYS is manufactured in china. The transformer is 180mm long and has a width of 70mm and a height of 200mm. The input voltage of the transformer is 12V while the output voltage is 230V. In order to afford the power, it comes with a weight of 2.3kg. The transformer requires at least 600W to work and the maximum power is up to 1200W.
 
-# Header 1
-## Header 2
-### Header 3
+### Specification
 
-- Bulleted
-- List
+Feature | Value
+------------ | -------------
+Height | 200mm
+Input voltage | 12V
+Output voltage | 230V
+Power | 600W
+Max power | 1200W
+Length | 180mm
+Weight | 2.3kg
+Width | 70mm
+Country of origin | China
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndyLeeZaiZai/Transformer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Links 
+[Link](https://andyleezaizai.github.io/Transformer/)
