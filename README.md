@@ -12,6 +12,7 @@ Transformer
 ### Description
 The transformator 027183GYS of GYS is manufactured in china. The transformer is 180mm long and has a width of 70mm and a height of 200mm. The input voltage of the transformer is 12V while the output voltage is 230V. In order to afford the power, it comes with a weight of 2.3kg. The transformer requires at least 600W to work and the maximum power is up to 1200W.
 
+A transformer is an electrical device that transfers electrical energy between two or more circuits through electromagnetic induction. A varying current in one coil of the transformer produces a varying magnetic field, which in turn induces a voltage in a second coil.
 ### Specification
 
 Feature | Value
